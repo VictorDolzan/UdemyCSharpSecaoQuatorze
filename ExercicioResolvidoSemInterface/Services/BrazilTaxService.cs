@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using System.Globalization;
 using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface;
 using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Entities;
-using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Services;
 
 namespace CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Services
 {
@@ -16,14 +15,14 @@ namespace CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Services
         public  double TotalTax { get; private set; }
         public double Tax(double amount)
         {
-            if(amount > 100)
-            {
-                return amount * 0.15;
-            }
-            else
-            {
-                return amount * 0.2;
-            }            
+           if(amount <= 100)
+           {
+               return amount * 0.2;
+           }
+           else
+           {
+               return amount * 0.15;
+           }          
         }
     }
 }

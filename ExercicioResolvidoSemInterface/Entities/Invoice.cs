@@ -37,6 +37,5 @@ namespace CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Entities
             + "\nTotal payment: "
             + TotalPayment.ToString("F2", CultureInfo.InvariantCulture);
         }
-
     }
 }

@@ -1,0 +1,15 @@
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/CSharpSecaoQuatorze
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/CSharpSecaoQuatorze.deps.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/CSharpSecaoQuatorze.runtimeconfig.json
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/CSharpSecaoQuatorze.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/ref/CSharpSecaoQuatorze.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/bin/Debug/net6.0/CSharpSecaoQuatorze.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.AssemblyInfo.cs
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.csproj.CoreCompileInputs.cache
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/ref/CSharpSecaoQuatorze.dll
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.pdb
+/home/victor/Documents/Udemy/C# Completo Programação Orientada a objetos + Projetos/CSharpSecaoQuatorze/obj/Debug/net6.0/CSharpSecaoQuatorze.genruntimeconfig.cache
