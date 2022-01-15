@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
+using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface;
+using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Entities;
+using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Services;
 
 namespace CSharpSecaoQuatorze
 {
@@ -12,7 +15,7 @@ namespace CSharpSecaoQuatorze
     {
         public static void Main(string[] args)
         {
-            
+            ExercicioResolvidoSemInterface.ExercicioResolvidoSemInterface.ExecutarExercicioResolvidoSemInterface();
         }
     }
 }
