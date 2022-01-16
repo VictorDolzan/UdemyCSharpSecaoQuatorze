@@ -12,7 +12,7 @@ namespace CSharpSecaoQuatorze.ExercicioDeFixacao.Services
     class ContractService
     {
         private IOnlinePaymentService _OnlinePaymentService;
-
+ 
         public ContractService(IOnlinePaymentService onlinePaymentService)
         {
             _OnlinePaymentService = onlinePaymentService;

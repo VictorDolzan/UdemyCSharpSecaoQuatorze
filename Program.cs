@@ -11,6 +11,9 @@ using CSharpSecaoQuatorze.ExercicioResolvidoSemInterface.Services;
 using CSharpSecaoQuatorze.ExercicioDeFixacao.Entities;
 using CSharpSecaoQuatorze.ExercicioDeFixacao.Services;
 using CSharpSecaoQuatorze.ExercicioDeFixacao;
+using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato;
+using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato.Model;
+using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato.Model.Enums;
 
 namespace CSharpSecaoQuatorze
 {
@@ -19,7 +22,8 @@ namespace CSharpSecaoQuatorze
         public static void Main(string[] args)
         {
            // ExercicioResolvidoSemInterface.ExercicioResolvidoSemInterface.ExecutarExercicioResolvidoSemInterface();
-            ExercicioFixacao.ExecutarExercicioFixacao();
+            //ExercicioFixacao.ExecutarExercicioFixacao();
+            AtividadeDeHerdarVsContrato.AtividadeDeHerdarVsContrato.ExecutarAtividadeDeHerdarVsContrato();
         }
     }
 }
