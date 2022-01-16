@@ -14,6 +14,8 @@ using CSharpSecaoQuatorze.ExercicioDeFixacao;
 using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato;
 using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato.Model;
 using CSharpSecaoQuatorze.AtividadeDeHerdarVsContrato.Model.Enums;
+using CSharpSecaoQuatorze.AtividadeHerancaMultipla;
+using CSharpSecaoQuatorze.AtividadeHerancaMultipla.Devices;
 
 namespace CSharpSecaoQuatorze
 {
@@ -23,7 +25,8 @@ namespace CSharpSecaoQuatorze
         {
            // ExercicioResolvidoSemInterface.ExercicioResolvidoSemInterface.ExecutarExercicioResolvidoSemInterface();
             //ExercicioFixacao.ExecutarExercicioFixacao();
-            AtividadeDeHerdarVsContrato.AtividadeDeHerdarVsContrato.ExecutarAtividadeDeHerdarVsContrato();
+            //AtividadeDeHerdarVsContrato.AtividadeDeHerdarVsContrato.ExecutarAtividadeDeHerdarVsContrato();
+            AtividadeHerancaMultipla.AtividadeHerancaMultipla.ExecutarAtividadeHerancaMultipla();
         }
     }
 }
